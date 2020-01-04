@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mateusz Staniak"
-  avatar           : "" # TODO: add photo
+  avatar           : "ms_photo.jpg"
   bio              : "PhD candidate at the University of Wrocław interested in applied statistics, machine learning, proteomics and software development. R&Python programmer."
   location         : "Wrocław, Poland"
   employer         :
