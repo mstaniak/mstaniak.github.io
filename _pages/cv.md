@@ -61,7 +61,7 @@ Internships
 * Summer internship at the Faculty of Mathematics and Information Science, Warsaw University of Technology (Poland), July - August 2016. Topic: Visualizing the results of PISA studies, supervisor: Przemysław Biecek, PhD.
 
 Research visits
-====== 
+======
 * 9 - 13 December 2019: research visit at the Hasselt University. Topic: Shared   peptides   for   protein quantification.
 * 10 - 23 November 2019: research visit at the Northeastern University in Olga Vitek's lab. Topic: Post translation modifications in TMT-based protein quantification. 
 * 8 - 19 July 2019: research visit at the Hasselt University. Topic: Shared   peptides   for   protein quantification.
@@ -74,6 +74,14 @@ Small research projects
 * Medical and environmental data analysis at University of Warsaw (NCBiR grant POIR.01.01.01-00-0328/17 in collaboration with LekSeek sp. z.o.o.).
 * Medical and environmental data analysis in a project conduncted for FarData sp. z.o.o.
 
-Service and leadership
+Prizes and scholarships}
 ======
-* TODO
+* Stipend of the Minister of Science and Higher Education for the best students, 2017.
+* Rector's stipend for the best students (University of Wroc{\l}aw, awarded 4 times 2014 - 2017).
+
+Other activity
+======
+* Two workshops on Interpretable Machine Learning in R: at the eRum 2018 conference (Budapest, Hungary, May 2018, with P. Biecek) and at the Why R? conference (Wrocław, Poland, July 2018).
+* Two presentations at the Wrocław R users group meeting: Machine learning in R (January 2018), Interpretability of machine learning models (May 2018).
+* Member of the Wrocław R users group and co-organizer of its meetups (https://stwur.pl, 2017 - currently).
+* Member of a research group MI2 Warsaw / MI2 Data Lab (https://mi2.mini.pw.edu.pl, 2016 - 2019).
