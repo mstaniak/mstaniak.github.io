@@ -85,7 +85,7 @@ author:
   bio              : "PhD candidate at the University of Wrocław interested in applied statistics, machine Learning, proteomics and software development. R&Python programmer."
   location         : "Wrocław, Poland"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NgQ2wp0AAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Mateusz_Staniak2"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mateusz-staniak-6a8475136/"
+  linkedin         : "mateusz-staniak-6a8475136/"
   orcid            : 
   pinterest        :
   soundcloud       :
