@@ -69,6 +69,7 @@ Research visits
 * 26 - 31 March 2017: research visit at the Warsaw University of Technology. Topic: Laws of large numbers for Kendall random walks.
 
 Small research projects
+======
 * Evaluation of statistical methods for Hydrogen-Deuterium Exchange Mass Spectrometry at the Institute of Biochemistry and Biophysics, Polish Academy of Sciences, June - September 2019.
 * R implementation of a method of generating explanations for Machine Learning models (CRAN package localModel) as a part of the NCN 2017/27/B/ST6/01307 grant (DALEX), October - November 2018.
 * Medical and environmental data analysis at University of Warsaw (NCBiR grant POIR.01.01.01-00-0328/17 in collaboration with LekSeek sp. z.o.o.).
