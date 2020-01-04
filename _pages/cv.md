@@ -26,12 +26,14 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks and posters
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Slides for all my presentations are available on [this GitHub repo](https://github.com/mstaniak/talks)
   
 Teaching
 ======
