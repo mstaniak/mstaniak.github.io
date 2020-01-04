@@ -4,7 +4,7 @@ collection: talks
 type: "Conference talk"
 permalink: /talks/2018-vilnius
 venue: "IMS 2018"
-date: July 2018
+date: 2018-07-01
 location: "Vilnius, Lithuania"
 ---
 

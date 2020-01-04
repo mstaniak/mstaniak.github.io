@@ -4,7 +4,7 @@ collection: talks
 type: "Workshop talk"
 permalink: /talks/2017-berlin
 venue: "Berlin Symposium 2017: Modern Statistical Methods From Data to Knowledge"
-date: December 2017
+date: 2017-12-01
 location: "Berlin, Germany"
 ---
 

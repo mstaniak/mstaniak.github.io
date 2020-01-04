@@ -4,7 +4,7 @@ collection: talks
 type: "Conference talk"
 permalink: /talks/2018-local
 venue: "Joint meeting of the Italian Mathematical Union, the Italian Society of Industrial and Applied Mathematics and the Polish Mathematical Society"
-date: September 2018
+date: 2018-09-01
 location: "Wrocław, Poland"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-R
 venue: "University of Wrocław, Faculty of Mathematics and Computer Science"
-date: 2019
+date: 2019-10-01
 location: "Wrocław, Poland"
 ---
 

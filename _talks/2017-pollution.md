@@ -4,7 +4,7 @@ collection: talks
 type: "Conference poster"
 permalink: /talks/2017-pollution
 venue: "Oblicze student conference"
-date: May 2017
+date: 2017-05-01
 location: "Poznań, Poland"
 ---
 

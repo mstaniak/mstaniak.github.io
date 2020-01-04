@@ -4,7 +4,7 @@ collection: talks
 type: "Conference talk"
 permalink: /talks/2017-walks
 venue: "ISSPSM 2017"
-date: August 2017
+date: 2017-08-01
 location: "Debrecen, Hungary"
 ---
 

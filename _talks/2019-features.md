@@ -4,7 +4,7 @@ collection: talks
 type: "Conference talk"
 permalink: /talks/2019-features
 venue: "Theoretical Foundations of Machine Learning 2019"
-date: February 2019
+date: 2019-02-01
 location: "Kraków, Poland"
 ---
 

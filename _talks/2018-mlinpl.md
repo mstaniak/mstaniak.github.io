@@ -4,7 +4,7 @@ collection: talks
 type: "Conference poster"
 permalink: /talks/2018-mlinpl
 venue: "ML in PL Conference"
-date: December 2018
+date: 2018-12-01
 location: "Warsaw, Poland"
 ---
 

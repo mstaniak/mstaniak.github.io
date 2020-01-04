@@ -4,7 +4,7 @@ collection: talks
 type: "Conference talk"
 permalink: /talks/2018-spitzer
 venue: "XV Probability Conference in Będlewo"
-date: May 2018
+date: 2018-05-01
 location: "Będlewo, Poland"
 ---
 
