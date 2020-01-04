@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mateusz Staniak"
 title_separator          : "-"
 name                     : &name "Mateusz Staniak"
-description              : &description "Mateusz Staniak's personal website"
+description              : &description "Mateusz Staniak's personal academic website"
 url                      : https://mstaniak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mstaniak/mstaniak.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mateusz Staniak"
   avatar           : "" # TODO: add photo
-  bio              : "PhD candidate at the University of Wrocław interested in applied statistics, machine Learning, proteomics and software development. R&Python programmer."
+  bio              : "PhD candidate at the University of Wrocław interested in applied statistics, machine learning, proteomics and software development. R&Python programmer."
   location         : "Wrocław, Poland"
   employer         :
   pubmed           : 
