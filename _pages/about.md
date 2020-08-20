@@ -15,7 +15,7 @@ At the Institute of Mathematics, I teach an [introductory course in R](https://m
 
 Through my second advisor, I am associated with [Center for Statistics@UHasselt](https://www.uhasselt.be/censtat). With researchers from CenStat, I work on topics in protein quantification.
 
-I am also a software engineer for the [MSstats](https://github.com/MeenaChoi/MSstats) package in [Olga Vitek's lab](https://olga-vitek-lab.ccis.northeastern.edu/), and I collaborate with the [Mass Spectrometry Lab@IBB PAS](http://shiny.mslab-ibb.pl/shiny/HaDeX/) ([workshops 2020].
+I am also a software engineer for the [MSstats](https://github.com/MeenaChoi/MSstats) package in [Olga Vitek's lab](https://olga-vitek-lab.ccis.northeastern.edu/), I also collaborate with the [Mass Spectrometry Lab@IBB PAS](https://github.com/hadexversum/).
 
 My interests focus around
 * applied statistics & biostatistics - particularly in proteomics,
