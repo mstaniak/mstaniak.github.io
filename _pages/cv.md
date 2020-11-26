@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+[Download my full academic CV (pdf)](https://github.com/mstaniak/mstaniak.github.io/raw/master/download/staniak_scientific_cv.pdf)
+
 Education
 ======
 
@@ -75,10 +78,10 @@ Small research projects
 * Medical and environmental data analysis at University of Warsaw (NCBiR grant POIR.01.01.01-00-0328/17 in collaboration with LekSeek sp. z.o.o.).
 * Medical and environmental data analysis in a project conduncted for FarData sp. z.o.o.
 
-Prizes and scholarships}
+Prizes and scholarships
 ======
 * Stipend of the Minister of Science and Higher Education for the best students, 2017.
-* Rector's stipend for the best students (University of Wroc{\l}aw, awarded 4 times 2014 - 2017).
+* Rector's stipend for the best students (University of Wrocław, awarded 4 times 2014 - 2017).
 
 Other activity
 ======
