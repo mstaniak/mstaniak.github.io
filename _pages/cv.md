@@ -23,7 +23,7 @@ Education
 Academic employment
 ======
 
-* Software engineer in Olga Vitek’s Lab (Northeastern University),MSstatsand Cardinal: Next Generation Statistical Mass Spectrometry in Rgrantfrom Chan Zuckerberg Initiative, February 2020 - January 2021
+* Software engineer in Olga Vitek’s Lab (Northeastern University), _MSstats and Cardinal: Next Generation Statistical Mass Spectrometry in R_ grant from Chan Zuckerberg Initiative, February 2020 - January 2021.
 * Research assistant at the University of Wrocław - NCN grant 2016/23/B/ST1/00454 Model selection for high dimensional data with SLOPE method - theoretical properties and applications (PI: prof. Małgorzata Bogdan), October 2019 - currently.
 * Research assistant at the Warsaw University of Technology - NCN grant 2016/21/B/ST6/02176 MLGenSig: Machine Learning Genetic Signatures (PI: prof. Przemysław Biecek), December 2018 - May 2019.
 * Research assistant at the University of Wrocław - FNP grant Powroty/2016-1/2 First order Kendall maximal autoregressive processes and their applications (PI: Barbara Jasiulis-Gołdyn, PhD), November 2016 - July 2018.
@@ -33,7 +33,7 @@ For my non-academic experience, please see my [LinkedIn profile](https://www.lin
 Funding
 =====
 
-* PI  in  the  National  Science  Center,  Poland  grant  PRELUDIUM2020/37/N/ST6/04070 _Protein inference and quantification: a regular-ization approach_ awarded in 2020 (author of the grant application).
+* PI  in  the  National  Science  Center,  Poland  grant  PRELUDIUM 2020/37/N/ST6/04070 _Protein inference and quantification: a regularization approach_ awarded in 2020 (author of the grant application).
 * BOF 2020 BILA grant for the bilateral cooperation (joint PhD) between Hasselt University and University of Wrocław, awarded by the Hasselt University in 2020 (co-author of the grant application).
 * Travel grant for a visit at the Northeastern University under the PROM programme at the University of Wrocław, 2020.
 
