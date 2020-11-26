@@ -22,15 +22,25 @@ Education
 
 Academic employment
 ======
+
+* Software engineer in Olga Vitek’s Lab (Northeastern University),MSstatsand Cardinal: Next Generation Statistical Mass Spectrometry in Rgrantfrom Chan Zuckerberg Initiative, February 2020 - January 2021
 * Research assistant at the University of Wrocław - NCN grant 2016/23/B/ST1/00454 Model selection for high dimensional data with SLOPE method - theoretical properties and applications (PI: prof. Małgorzata Bogdan), October 2019 - currently.
 * Research assistant at the Warsaw University of Technology - NCN grant 2016/21/B/ST6/02176 MLGenSig: Machine Learning Genetic Signatures (PI: prof. Przemysław Biecek), December 2018 - May 2019.
 * Research assistant at the University of Wrocław - FNP grant Powroty/2016-1/2 First order Kendall maximal autoregressive processes and their applications (PI: Barbara Jasiulis-Gołdyn, PhD), November 2016 - July 2018.
 
 For my non-academic experience, please see my [LinkedIn profile](https://www.linkedin.com/in/mateusz-staniak-6a8475136/) and [my website](http://mstaniak.pl).
 
+Funding
+=====
+
+* PI  in  the  National  Science  Center,  Poland  grant  PRELUDIUM2020/37/N/ST6/04070 _Protein inference and quantification: a regular-ization approach_ awarded in 2020 (author of the grant application).
+* BOF 2020 BILA grant for the bilateral cooperation (joint PhD) between Hasselt University and University of Wrocław, awarded by the Hasselt University in 2020 (co-author of the grant application).
+* Travel grant for a visit at the Northeastern University under the PROM programme at the University of Wrocław, 2020.
+
 Skills
 ======
-* R programming (packages development, Shiny, data analysis)
+
+* R programming (package development, Shiny, data analysis)
 * Git + GitHub
 * LaTeX
 * Python
@@ -85,6 +95,7 @@ Prizes and scholarships
 
 Other activity
 ======
+* Short course on Intermediate R as a part of the ASMS Fall Workshop(November 2020).
 * Two workshops on Interpretable Machine Learning in R: at the eRum 2018 conference (Budapest, Hungary, May 2018, with P. Biecek) and at the Why R? conference (Wrocław, Poland, July 2018).
 * Two presentations at the Wrocław R users group meeting: Machine learning in R (January 2018), Interpretability of machine learning models (May 2018).
 * Member of the Wrocław R users group and co-organizer of its meetups (https://stwur.pl, 2017 - currently).
