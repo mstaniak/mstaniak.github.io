@@ -95,7 +95,7 @@ Prizes and scholarships
 
 Other activity
 ======
-* Short course on Intermediate R as a part of the ASMS Fall Workshop(November 2020).
+* Short course on Intermediate R as a part of the ASMS Fall Workshop (November 2020).
 * Two workshops on Interpretable Machine Learning in R: at the eRum 2018 conference (Budapest, Hungary, May 2018, with P. Biecek) and at the Why R? conference (Wrocław, Poland, July 2018).
 * Two presentations at the Wrocław R users group meeting: Machine learning in R (January 2018), Interpretability of machine learning models (May 2018).
 * Member of the Wrocław R users group and co-organizer of its meetups (https://stwur.pl, 2017 - currently).
