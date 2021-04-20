@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 
-* PhD studies in Mathematics, University of Wrocław (November 2019 - currently).
+* PhD studies in Mathematics, University of Wrocław (November 2019 - currently). Joint PhD programme with CenStat @ Hasselt University.
 * PhD studies in Computer Science, Warsaw University of Technology, 2018-2019 (unfinished due to personal reasons).
 * Magister (MSc equivalent) in Mathematics, University of Wrocław, 2018, final grade: 5.
 * Licencjat (BSc equivalent) in Mathematics, University of Wrocław, 2016, final grade: 5.
