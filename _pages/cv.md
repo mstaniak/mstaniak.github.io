@@ -95,6 +95,9 @@ Prizes and scholarships
 
 Other activity
 ======
+* Helper at the Data Carpentries workshop "Data Analysis and Visualization in R" at the University of Warsaw, online, June 2021.
+* Tutorial "Introduction to MSstats ecosystem and MSstatsTMT" at the May Institute, organized online by the Olga Vitek group, May 2021. 
+* Short course "Statistical Design and Analysis of Quantitative Proteomics Experiments with TMT Labeling: Case Studies with MSstatsTMT" organized by the Olga Vitek Lab, online, March 2021.
 * Short course on Intermediate R as a part of the ASMS Fall Workshop (November 2020).
 * Two workshops on Interpretable Machine Learning in R: at the eRum 2018 conference (Budapest, Hungary, May 2018, with P. Biecek) and at the Why R? conference (Wrocław, Poland, July 2018).
 * Two presentations at the Wrocław R users group meeting: Machine learning in R (January 2018), Interpretability of machine learning models (May 2018).
