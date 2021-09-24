@@ -2,7 +2,7 @@
 title: "Fluctuations of extremal Markov chains of the Kendall type"
 collection: publications
 permalink: /publication/2019-02-01-fluctuations-of-kendall-random-walks
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 
 date: 2019-02-01
 venue: 'Arxiv preprint'
 paperurl: 'https://arxiv.org/abs/1902.00576'
